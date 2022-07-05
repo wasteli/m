@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://wasteli.github.io/m/1.jar",
+"spider":"http://gg.gg/tvboxjar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
